@@ -4,7 +4,7 @@
 - 🎓 Hon. B.Sc. in Computer Science and Applied Statistics from University of Toronto
 - 🧠 Computational Neuroscience Research Assistant at CoNSens Lab
 - 🏙 Urban Studies Research Assistant at University of Toronto
-- 🎓 Incoming Master's student in Systems and Technology Engineering at McMaster University 
+- 🎓 Master's student in Systems and Technology Engineering at McMaster University 
 
 #### Skills
 - **Programming Languages**: Python (Pandas, NumPy, Matplotlib), Java, SQL, JavaScript
