@@ -1,4 +1,4 @@
-### Hi there, I'm Hongsheng Zhong 👋
+### Hi there, I'm Ben 👋
 
 #### About Me
 - 🎓 Hon. B.Sc. in Computer Science and Applied Statistics from University of Toronto
