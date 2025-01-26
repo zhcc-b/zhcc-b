@@ -13,7 +13,6 @@
 
 #### Projects
 - **[PlayPal](https://big-cow-king.github.io/PlayPal-Frontend/)**: A Next.js and Django-powered web platform facilitating sports enthusiasts to easily find, join, and organize sports events.
-- **Microservices-based Retail Application**: A Java-based server for efficient user storage, product category, and order management.
 - **Series Forecasting Weather**: GRU-based Neural Network for precise weather forecasting.
 - **COVID-19 Affecting Grade Point Average**: Analytical study on the impact of COVID-19 on GPA, using R for regression analyses.
 
