@@ -23,7 +23,7 @@
   - Created a poster proposal titled “Predictive Coding Dynamics in a Grasping Neural Network Increase Robustness to Noise” and participated in YorkU’s 2023 CVR-VISTA conference; additionally, co-authored “Layer-Dependent Feedback in a Grasping Neural Network Increases Robustness to Noise” (CNS Annual Meeting 2024, Toronto) and “Performance-Enhancing Effects of Medium-Range Feedback in a Grasping Neural Network” (MPUTC Research Day 2024, Toronto).
 
 #### Honors & Awards
-- **Entrance Scholarship** ($2000) from University of Toronto
+- **Entrance Scholarship** from University of Toronto
 
 #### Contact
 - 📧 Email: [zhcc0699@gmail.com](mailto:zhcc0699@gmail.com)
