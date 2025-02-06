@@ -20,7 +20,10 @@
 - **Computational Neuroscience Research Assistant** at CoNSens Lab (May 2023 – September 2023)
   - Implemented a VGG16-based convolutional neural network to infer object grasp points from high-dimensional visual data.
   - Improved computational efficiency by vectorizing iterative processes, reducing model training time by 70%.
-  - Created a poster proposal titled “Predictive Coding Dynamics in a Grasping Neural Network Increase Robustness to Noise” and participated in YorkU’s 2023 CVR-VISTA conference; additionally, co-authored “Layer-Dependent Feedback in a Grasping Neural Network Increases Robustness to Noise” (CNS Annual Meeting 2024, Toronto) and “Performance-Enhancing Effects of Medium-Range Feedback in a Grasping Neural Network” (MPUTC Research Day 2024, Toronto).
+  - Co-authored in:
+      "Predictive Coding Dynamics in a Grasping Neural Network Increase Robustness to Noise" – YorkU’s 2023 CVR-VISTA Conference.
+      "Layer-Dependent Feedback in a Grasping Neural Network Increases Robustness to Noise" – CNS Annual Meeting 2024, Toronto.
+      "Performance-Enhancing Effects of Medium-Range Feedback in a Grasping Neural Network" – MPUTC Research Day 2024, Toronto.
 
 #### Honors & Awards
 - **Entrance Scholarship** from University of Toronto
