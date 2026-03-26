@@ -7,6 +7,7 @@ Software developer focused on systems, data, and full-stack product engineering.
 - M.Eng. in Systems and Technology at McMaster University
 - Hon. B.Sc. in Computer Science and Applied Statistics from the University of Toronto
 - Software Developer Intern at SOTI
+- Former Computational Neuroscience Research Assistant at CoNSens Lab
 - Interested in enterprise software, backend systems, developer tooling, and practical AI applications
 
 ## Tech Stack
@@ -22,6 +23,12 @@ Software developer focused on systems, data, and full-stack product engineering.
 - [MeowTime](https://github.com/zhcc-b/meowtime): Jetpack Compose clock app with dynamic visuals, weather effects, and a realtime 3D cat layer
 - [Big Event Frontend](https://github.com/zhcc-b/big-even-frontend) / [Backend](https://github.com/zhcc-b/big-even-backend): Vue and Spring Boot full-stack article management platform
 - [PlayPal Frontend](https://github.com/zhcc-b/PlayPal-Frontend) / [Backend](https://github.com/zhcc-b/PlayPal-Backend): Next.js and Django-based social sports platform
+
+## Experience Highlights
+
+- SOTI: Building enterprise device-management features across TypeScript frontend and C#/.NET backend systems, with work spanning internal LLM tooling and dashboard reliability
+- Burlington Hydro: Built large-scale electricity analytics dashboards and anomaly-detection workflows in Python
+- CoNSens Lab, University of Toronto: Worked on vision-based neural network models for grasp prediction and optimized training workflows, reducing training time by about 70%
 
 ## Website
 
