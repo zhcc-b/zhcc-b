@@ -7,6 +7,7 @@ Software developer focused on systems, data, and full-stack product engineering.
 - M.Eng. in Systems and Technology at McMaster University
 - Hon. B.Sc. in Computer Science and Applied Statistics from the University of Toronto
 - Software Developer Intern at SOTI
+- Former Research Assistant at the University of Toronto
 - Former Computational Neuroscience Research Assistant at CoNSens Lab
 - Interested in enterprise software, backend systems, developer tooling, and practical AI applications
 
@@ -28,6 +29,7 @@ Software developer focused on systems, data, and full-stack product engineering.
 
 - SOTI: Building enterprise device-management features across TypeScript frontend and C#/.NET backend systems, with work spanning internal LLM tooling and dashboard reliability
 - Burlington Hydro: Built large-scale electricity analytics dashboards and anomaly-detection workflows in Python
+- University of Toronto: Built a Java distributed microservices system with transaction coordination, load testing, and database optimization
 - CoNSens Lab, University of Toronto: Worked on vision-based neural network models for grasp prediction and optimized training workflows, reducing training time by about 70%
 
 ## Website
